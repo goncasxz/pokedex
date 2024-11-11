@@ -4,13 +4,11 @@ Este é um projeto de uma Pokedex, uma aplicação web que exibe informações s
 
 ## Índice
 
-- [Demonstração](#demonstração)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Funcionalidades
 
@@ -41,6 +39,6 @@ Abra a aplicação em um navegador.
 Explore a lista de Pokémon.
 Clique em um Pokémon para ver os detalhes.
 
-##Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou sugerir melhorias, e envie pull requests para propor mudanças.
