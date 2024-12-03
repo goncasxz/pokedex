@@ -1,20 +1,44 @@
 # Pokedex
 
-Este é um aplicativo web simples de Pokedex que permite aos usuários pesquisar Pokémon e visualizar detalhes como nome, habilidades e estatísticas.
+Este é um projeto de uma Pokedex, uma aplicação web que exibe informações sobre diferentes Pokémon. Este projeto utiliza tecnologias front-end e interage com uma API pública para exibir dados dos Pokémon.
+
+## Índice
+
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Instalação](#instalação)
+- [Como Usar](#como-usar)
+- [Contribuição](#contribuição)
 
 ## Funcionalidades
-- Pesquisar Pokémon pelo nome.
-- Exibir informações básicas como habilidades e estatísticas.
-- Construído com HTML, CSS e JavaScript.
+
+- Listar todos os Pokémon com nome e imagem.
+- Exibir detalhes de cada Pokémon, incluindo habilidades, tipo, peso e altura.
+- Interface intuitiva e responsiva para acesso em dispositivos móveis.
+
+## Tecnologias Utilizadas
+
+- **HTML** e **CSS** - Estrutura e estilização da interface.
+- **JavaScript** - Manipulação de dados e interação com a API.
+- **API** - Este projeto utiliza a [PokeAPI](https://pokeapi.co/) para fornecer os dados dos Pokémon.
 
 ## Instalação
 
-1. Clone este repositório.
-Faça um fork desse repositorio
-Clone localmente caso queira realizar atualizações
-   
-2. Uso
-Para visualizar o app, basta abrir o arquivo index.html no seu navegador.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/goncasxz/pokedex.git
 
-Contribuindo
-Sinta-se à vontade para fazer um fork do repositório e criar pull requests com melhorias ou correções.
+2. Navegue até a pasta do projeto:
+cd pokedex
+
+3. Abra o arquivo index.html em um navegador para ver a aplicação.
+
+## Como Usar
+
+Abra a aplicação em um navegador.
+Explore a lista de Pokémon.
+Clique em um Pokémon para ver os detalhes.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou sugerir melhorias, e envie pull requests para propor mudanças.
